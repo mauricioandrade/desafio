@@ -391,12 +391,12 @@ curl http://localhost:8080/produtos
 ## 📂 Estrutura do Projeto
 
 ```
-desafio-modulo1-java10x/
+desafio/
 ├── src/
 │   ├── main/
 │   │   ├── java/
-│   │   │   └── com/mauricioandrade/desafio_modulo1_java10x/
-│   │   │       ├── DesafioModulo1Java10xApplication.java
+│   │   │   └── com/mauricioandrade/desafio/
+│   │   │       ├── DesafioApplication.java
 │   │   │       ├── config/
 │   │   │       │   └── SwaggerConfig.java
 │   │   │       ├── controller/
